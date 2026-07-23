@@ -3,7 +3,7 @@ public:
     int equalSubstring(string s, string t, int maxCost) {
         int left=0;
         int cost=0;
-        int ans=0;
+        int ans=INT_MIN;
         for(int right=0;right<s.size();right++){
             cost+=abs(s[right]-t[right]);
 
@@ -14,6 +14,6 @@ public:
             ans=max(ans,right-left+1);
 
         }
-        return ans;
+        return ans==INT_MIN ? 0 : ans;
     }
 };
