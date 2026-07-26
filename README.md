@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/md-samii/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/md-samii/Leetcode-Solutions/tree/master/0238-product-of-array-except-self) |
 | [0518-coin-change-ii](https://github.com/md-samii/Leetcode-Solutions/tree/master/0518-coin-change-ii) |
+| [0611-valid-triangle-number](https://github.com/md-samii/Leetcode-Solutions/tree/master/0611-valid-triangle-number) |
 | [0905-sort-array-by-parity](https://github.com/md-samii/Leetcode-Solutions/tree/master/0905-sort-array-by-parity) |
 ## Hash Table
 |  |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/md-samii/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
+| [0611-valid-triangle-number](https://github.com/md-samii/Leetcode-Solutions/tree/master/0611-valid-triangle-number) |
 | [0905-sort-array-by-parity](https://github.com/md-samii/Leetcode-Solutions/tree/master/0905-sort-array-by-parity) |
 ## Divide and Conquer
 |  |
@@ -44,12 +46,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/md-samii/Leetcode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0611-valid-triangle-number](https://github.com/md-samii/Leetcode-Solutions/tree/master/0611-valid-triangle-number) |
 | [0905-sort-array-by-parity](https://github.com/md-samii/Leetcode-Solutions/tree/master/0905-sort-array-by-parity) |
 ## Binary Search
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/md-samii/Leetcode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/md-samii/Leetcode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
+| [0611-valid-triangle-number](https://github.com/md-samii/Leetcode-Solutions/tree/master/0611-valid-triangle-number) |
 | [1208-get-equal-substrings-within-budget](https://github.com/md-samii/Leetcode-Solutions/tree/master/1208-get-equal-substrings-within-budget) |
 ## String
 |  |
@@ -82,4 +86,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0509-fibonacci-number](https://github.com/md-samii/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/md-samii/Leetcode-Solutions/tree/master/1137-n-th-tribonacci-number) |
+## Greedy
+|  |
+| ------- |
+| [0611-valid-triangle-number](https://github.com/md-samii/Leetcode-Solutions/tree/master/0611-valid-triangle-number) |
 <!---LeetCode Topics End-->
