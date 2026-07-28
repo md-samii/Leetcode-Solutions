@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/md-samii/Leetcode-Solutions/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/md-samii/Leetcode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0344-reverse-string](https://github.com/md-samii/Leetcode-Solutions/tree/master/0344-reverse-string) |
 | [0611-valid-triangle-number](https://github.com/md-samii/Leetcode-Solutions/tree/master/0611-valid-triangle-number) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/md-samii/Leetcode-Solutions/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/md-samii/Leetcode-Solutions/tree/master/0344-reverse-string) |
 | [1208-get-equal-substrings-within-budget](https://github.com/md-samii/Leetcode-Solutions/tree/master/1208-get-equal-substrings-within-budget) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/md-samii/Leetcode-Solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
