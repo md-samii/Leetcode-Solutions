@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/md-samii/Leetcode-Solutions/tree/master/0283-move-zeroes) |
 | [0518-coin-change-ii](https://github.com/md-samii/Leetcode-Solutions/tree/master/0518-coin-change-ii) |
 | [0611-valid-triangle-number](https://github.com/md-samii/Leetcode-Solutions/tree/master/0611-valid-triangle-number) |
+| [0704-binary-search](https://github.com/md-samii/Leetcode-Solutions/tree/master/0704-binary-search) |
 | [0905-sort-array-by-parity](https://github.com/md-samii/Leetcode-Solutions/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/md-samii/Leetcode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 ## Hash Table
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/md-samii/Leetcode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/md-samii/Leetcode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0611-valid-triangle-number](https://github.com/md-samii/Leetcode-Solutions/tree/master/0611-valid-triangle-number) |
+| [0704-binary-search](https://github.com/md-samii/Leetcode-Solutions/tree/master/0704-binary-search) |
 | [1208-get-equal-substrings-within-budget](https://github.com/md-samii/Leetcode-Solutions/tree/master/1208-get-equal-substrings-within-budget) |
 ## String
 |  |
