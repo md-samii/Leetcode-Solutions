@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/md-samii/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
 | [0198-house-robber](https://github.com/md-samii/Leetcode-Solutions/tree/master/0198-house-robber) |
+| [0392-is-subsequence](https://github.com/md-samii/Leetcode-Solutions/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/md-samii/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
 | [0518-coin-change-ii](https://github.com/md-samii/Leetcode-Solutions/tree/master/0518-coin-change-ii) |
 | [1137-n-th-tribonacci-number](https://github.com/md-samii/Leetcode-Solutions/tree/master/1137-n-th-tribonacci-number) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/md-samii/Leetcode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/md-samii/Leetcode-Solutions/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/md-samii/Leetcode-Solutions/tree/master/0344-reverse-string) |
+| [0392-is-subsequence](https://github.com/md-samii/Leetcode-Solutions/tree/master/0392-is-subsequence) |
 | [0611-valid-triangle-number](https://github.com/md-samii/Leetcode-Solutions/tree/master/0611-valid-triangle-number) |
 | [0905-sort-array-by-parity](https://github.com/md-samii/Leetcode-Solutions/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/md-samii/Leetcode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
@@ -83,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/md-samii/Leetcode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0125-valid-palindrome](https://github.com/md-samii/Leetcode-Solutions/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/md-samii/Leetcode-Solutions/tree/master/0344-reverse-string) |
+| [0392-is-subsequence](https://github.com/md-samii/Leetcode-Solutions/tree/master/0392-is-subsequence) |
 | [1208-get-equal-substrings-within-budget](https://github.com/md-samii/Leetcode-Solutions/tree/master/1208-get-equal-substrings-within-budget) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/md-samii/Leetcode-Solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/md-samii/Leetcode-Solutions/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
