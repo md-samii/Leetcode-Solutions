@@ -1,24 +1,33 @@
 class Solution {
 public:
-    bool ispalin(string s,int left,int right){
-        while(left<right){
-            if(s[left]!=s[right]){
+bool check(int st , int end, string s)
+{
+        while(st<end)
+        {
+            if(s[st]!=s[end])
+            {
                 return false;
             }
-            left++;
-            right--;
+            st++;
+            end--;
         }
-        return true;
-    }
+
+        return true ;
+}
     bool validPalindrome(string s) {
-        int i=0;
-        int j=s.size()-1;
-        while(i<j){
-            if(s[i]==s[j]){
-                i++;
-                j--;
-            }else{
-                return ispalin(s,i+1,j) || ispalin(s,i,j-1);
+        int left =0;
+        int right =s.length()-1;
+
+        while(left<right)
+        {
+            if(s[left]==s[right])
+            {
+                left++;
+                right--;
+            }
+            else
+            {
+                return check(left+1,right,s) || check(left,right-1,s);
             }
         }
         return true;
