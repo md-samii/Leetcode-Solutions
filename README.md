@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/md-samii/Leetcode-Solutions/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/md-samii/Leetcode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/md-samii/Leetcode-Solutions/tree/master/0027-remove-element) |
+| [0041-first-missing-positive](https://github.com/md-samii/Leetcode-Solutions/tree/master/0041-first-missing-positive) |
 | [0053-maximum-subarray](https://github.com/md-samii/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/md-samii/Leetcode-Solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/md-samii/Leetcode-Solutions/tree/master/0088-merge-sorted-array) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/md-samii/Leetcode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0041-first-missing-positive](https://github.com/md-samii/Leetcode-Solutions/tree/master/0041-first-missing-positive) |
 | [0217-contains-duplicate](https://github.com/md-samii/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/md-samii/Leetcode-Solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Sorting
