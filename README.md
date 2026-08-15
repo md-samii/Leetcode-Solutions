@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/md-samii/Leetcode-Solutions/tree/master/0027-remove-element) |
 | [0041-first-missing-positive](https://github.com/md-samii/Leetcode-Solutions/tree/master/0041-first-missing-positive) |
 | [0053-maximum-subarray](https://github.com/md-samii/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
+| [0066-plus-one](https://github.com/md-samii/Leetcode-Solutions/tree/master/0066-plus-one) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/md-samii/Leetcode-Solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/md-samii/Leetcode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/md-samii/Leetcode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/md-samii/Leetcode-Solutions/tree/master/0066-plus-one) |
 | [0509-fibonacci-number](https://github.com/md-samii/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/md-samii/Leetcode-Solutions/tree/master/1137-n-th-tribonacci-number) |
 ## Recursion
